@@ -2,8 +2,6 @@ name: PubDocker
 
 on:
   push:
-    branches:
-      - "master"
     tags: ["*"]
 
 jobs:
